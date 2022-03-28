@@ -11,7 +11,6 @@
   inputs.src-kmod-master.ref   = "refs/heads/master";
   inputs.src-kmod-master.owner = "alaviss";
   inputs.src-kmod-master.repo  = "kmod";
-  inputs.src-kmod-master.dir   = "";
   inputs.src-kmod-master.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
